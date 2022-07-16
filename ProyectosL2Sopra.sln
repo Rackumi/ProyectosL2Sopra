@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{8D2B6E78-D282-4885-92DA-1222AC03D142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graficos", "Graficos\Graficos.csproj", "{59A4DE28-B9C5-49DB-B822-1AAE26792F04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objetos", "Objetos\Objetos.csproj", "{4CDE9217-5857-4B13-B949-ACC6B4FBDA1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Textos", "Textos\Textos.csproj", "{175F1803-2624-45AA-AC48-BE9FAC0BB1D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ventanas", "Ventanas\Ventanas.csproj", "{7B6BD9E9-568B-43FB-9800-937F7D090119}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentacion", "Documentacion", "{7640E0FC-8A42-49A2-A088-BF66FA8F4166}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\curso_.Net.pdf = ..\..\curso_.Net.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D2B6E78-D282-4885-92DA-1222AC03D142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2B6E78-D282-4885-92DA-1222AC03D142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2B6E78-D282-4885-92DA-1222AC03D142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2B6E78-D282-4885-92DA-1222AC03D142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A4DE28-B9C5-49DB-B822-1AAE26792F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A4DE28-B9C5-49DB-B822-1AAE26792F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A4DE28-B9C5-49DB-B822-1AAE26792F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A4DE28-B9C5-49DB-B822-1AAE26792F04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CDE9217-5857-4B13-B949-ACC6B4FBDA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDE9217-5857-4B13-B949-ACC6B4FBDA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDE9217-5857-4B13-B949-ACC6B4FBDA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDE9217-5857-4B13-B949-ACC6B4FBDA1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{175F1803-2624-45AA-AC48-BE9FAC0BB1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175F1803-2624-45AA-AC48-BE9FAC0BB1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175F1803-2624-45AA-AC48-BE9FAC0BB1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175F1803-2624-45AA-AC48-BE9FAC0BB1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B6BD9E9-568B-43FB-9800-937F7D090119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B6BD9E9-568B-43FB-9800-937F7D090119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B6BD9E9-568B-43FB-9800-937F7D090119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B6BD9E9-568B-43FB-9800-937F7D090119}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3864DE2-BDDB-47CB-9CD5-75E887F76008}
+	EndGlobalSection
+EndGlobal
